@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>I'm Viktoriia Amaraut</h1>
+<h1 position: center>Viktoriia Amaraut</h1>
 
 <!--
 **ZiVictoria/ZiVictoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
