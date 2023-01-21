@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 style="display:center;": center>Viktoriia Amaraut</h1>
+<h1 style="text-align:center;": center>Viktoriia Amaraut</h1>
 
 <!--
 **ZiVictoria/ZiVictoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
